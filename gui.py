@@ -34,7 +34,7 @@ def build_executable():
             )
             
             if result.returncode == 0:
-                messagebox.showinfo("Success", "Executable built successfully, it is located in the dist folder!")
+                messagebox.showinfo("Success", "Executable built successfully! It is located in the dist folder")
             else:
                 raise Exception(result.stderr)
         except FileNotFoundError as e:
