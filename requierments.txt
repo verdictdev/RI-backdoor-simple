@@ -12,3 +12,4 @@ numpy as np
 tkinter
 subprocess
 webbrowser
+os
