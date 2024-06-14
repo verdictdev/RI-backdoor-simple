@@ -17,4 +17,4 @@ La sauvegarde du fichier webhook.txt contien la dernière sauvegarde webhook éf
 
 Envoyer l'éxecutable :
 Pour envoyer l'éxecutable à quelqu'un il vous faudra le mettre soit sur GitHub, Mega, ou un autre stockage en ligne.
-Car le fichier éxecutable est trop lourd pour etre envoyé directement sur discord.
+Car le fichier éxecutable est trop lourd pour etre envoyé directement sur discord !
