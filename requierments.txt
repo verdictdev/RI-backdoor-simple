@@ -1,0 +1,14 @@
+GPUtil
+requests
+json
+psutil
+uuid
+discord
+platform
+getpass
+pyautogui
+cv2
+numpy as np
+tkinter
+subprocess
+webbrowser

